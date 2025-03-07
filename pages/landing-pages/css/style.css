@@ -1,0 +1,400 @@
+
+.tag1 {
+
+	position: absolute;
+	background-color: #0cf07e;
+	color: #fff;
+	border-radius: 2px
+}
+
+.tag2 {
+
+	position: absolute;
+	background-color: #ffec9f;
+	color: #000;
+	border-radius: 2px
+}
+
+.icon {
+	position: absolute;
+	width: 20px;
+	fill: #eee;
+	top: 25px;
+	transition: all .25s;
+	cursor: pointer
+}
+
+.icon-like {
+	left: 25px
+}
+
+.icon-like.selected {
+	fill: red
+}
+
+.icon-bookmark {
+	right: 25px
+}
+
+.icon-bookmark.selected {
+	fill: #fbda61
+}
+
+.person_img {
+	max-width: 100%;
+	width: 80px;
+	border-radius: 50%;
+	margin-top: 30px;
+	margin-bottom: 30px
+}
+
+.person_name {
+	font-size: 15px;
+	font-weight: 600;
+	color: #444;
+	letter-spacing: 1px;
+	margin-bottom: 7px
+}
+
+.person_desg {
+	font-size: 11px;
+	color: #146484;
+	padding-bottom: 30px
+}
+
+.hire_btn {
+	width: 150px;
+	height: 45px;
+	background: #ee3ab7;
+	border: 2px solid #ee3ab7;
+	outline: 0;
+	color: #fff;
+	justify-content: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: 700;
+	border-radius: 50px;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+	box-shadow: 0 0 5px 5px rgba(238, 58, 183, .2);
+	cursor: pointer;
+	transition: all .25s
+}
+
+.hire_btn:hover {
+	background: transparent;
+	color: #ee3ab7;
+	box-shadow: none
+}
+
+.hire_btn_gray {
+	width: 150px;
+	height: 45px;
+	background: hsl(27, 92%, 53%);
+	border: 2px solid #fff;
+	outline: 0;
+	color: #000;
+	justify-content: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: 700;
+	border-radius: 50px;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+	transition: all .25s
+}
+
+.hire_btn_gray:hover {
+	background: transparent;
+	color: #000;
+	box-shadow: none
+}
+
+.hire_btn_blue {
+	width: 150px;
+	height: 45px;
+	background: #7779f1;
+	border: 2px solid #fff;
+	outline: 0;
+	color: #000;
+	justify-content: center;
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: 700;
+	border-radius: 5px;
+	letter-spacing: 1px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+	box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+	cursor: pointer;
+	transition: all .25s
+}
+
+.hire_btn_blue:hover {
+	background: #0cf07e;
+	color: #000;
+	box-shadow: none
+}
+
+.MultiCarousel .MultiCarousel-inner .item .item-background-dark {
+	background: #abacac
+}
+
+
+.widget {
+	padding: 20px;
+	margin-bottom: 40px
+}
+
+.widget.widget-last {
+	margin-bottom: 0
+}
+
+.widget.no-box {
+	padding: 0;
+	background-color: transparent;
+	margin-bottom: 40px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-ms-box-shadow: none;
+	-o-box-shadow: none
+}
+
+.widget.subscribe p {
+	margin-bottom: 18px
+}
+
+.widget li a {
+	color: #fff;
+}
+
+.widget li a:hover {
+	color: #aaa;
+	text-decoration: none
+}
+
+.widget-title {
+	margin-bottom: 20px
+}
+
+.widget-title span {
+	background: #839fad none repeat scroll 0 0;
+	display: block;
+	height: 1px;
+	margin-top: 25px;
+	position: relative;
+	width: 20%
+}
+
+.widget-title span::after {
+	background: inherit;
+	content: "";
+	height: inherit;
+	position: absolute;
+	top: -4px;
+	width: 50%
+}
+
+.widget-title.text-center span,
+.widget-title.text-center span::after {
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0
+}
+
+.widget .badge {
+	float: right;
+	background: #7f7f7f
+}
+
+.typo-light h1,
+.typo-light h2,
+.typo-light h3,
+.typo-light h4,
+.typo-light h5,
+.typo-light h6,
+.typo-light p,
+.typo-light div,
+.typo-light span,
+.typo-light small {
+	color: #000
+}
+
+ul.social-footer2 {
+	margin: 0;
+	padding: 0;
+	width: auto
+}
+
+ul.social-footer2 li {
+	display: inline-block;
+	padding: 0
+}
+
+ul.social-footer2 li a:hover {
+	background-color: #ff8d1e
+}
+
+ul.social-footer2 li a {
+	display: block;
+	height: 30px;
+	width: 30px;
+	text-align: center
+}
+
+.btn:hover,
+.btn:focus,
+.btn.active {
+	background: #4b92dc;
+	color: #fff;
+	-webkit-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+	-ms-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+	-o-box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+	-webkit-transition: all 250ms ease-in-out 0;
+	-moz-transition: all 250ms ease-in-out 0;
+	-ms-transition: all 250ms ease-in-out 0;
+	-o-transition: all 250ms ease-in-out 0;
+	transition: all 250ms ease-in-out 0
+}
+
+.fa {
+	display: inline-block;
+	font: normal normal normal 14px/1 FontAwesome;
+	background-color: #3e3e3e;
+	color: #fff;
+	padding: 9px;
+	border-radius: 5px
+}
+
+#subscribe-box .emailfield {
+	margin: auto
+}
+
+input[id="subs"] {
+	background: rgba(255, 255, 255, 0.075);
+	padding: 10px 15px;
+	color: #aaa;
+	border: 3px solid rgba(0, 0, 0, 0.1);
+	font-size: 14px;
+	margin-bottom: 16px;
+	border-radius: 5px;
+	transition: all .2s cubic-bezier(0.4, 0, 0.2, 1);
+	transition-delay: .2s;
+	text-align: center;
+	width: 100%
+}
+
+input.submitbutton.ripplelink {
+	background: #e67e22;
+	border: 3px solid rgba(0, 0, 0, 0.1);
+	color: #fff;
+	border-color: #e67e22;
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+	transition-delay: 0;
+	width: 100%;
+	font-size: 14px;
+	border: 0 solid;
+	transition: all .2s cubic-bezier(0.4, 0, 0.2, 1);
+	padding: 10px 15px;
+	margin-bottom: 16px;
+	border-radius: 5px
+}
+
+.thumb-content ::before {
+	content: "\f190";
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: inherit;
+	margin-left: 5px;
+	color: #fff;
+}
+
+.border-0 {
+	border: 0
+}
+
+.width-100 {
+	width: 100%
+}
+
+.title-1 {
+	font-weight: 600;
+	color: #000;
+	text-align: center;
+}
+
+.title-2 {
+	font-weight: 600;
+	color: #000;
+	text-align: center;
+}
+
+.title-3 {
+	font-weight: 600;
+	color: #000;
+	text-align: center;
+}
+
+.title-4 {
+	font-weight: 600;
+	color: #000;
+	text-align: center;
+}
+
+.title-5 {
+	font-weight: 600;
+	color: #000;
+    text-align: center;
+}
+
+.view-all-1 {
+	display: flex;
+	float: right;
+	z-index: 1000;
+	color: #000
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #fff;
+	min-width: 160px;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	z-index: 1
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block
+}
+
+.dropdown-content a:hover {
+	background-color: #fff
+}
+
+.dropdown:hover .dropdown-content {
+	display: block
+}
+
+.li-get-deals {
+	color: #000
+}
+
+.heading-get-deals {
+	color: #000;
+	font-weight: 600;
+	padding-top: 50px
+}
