@@ -21,121 +21,69 @@
 				<div>
 					<h1 class="text-justify heading_one" style="font-weight: 600">Terms and Conditions</h1>
 					<div class=" text-center text-justify">
-						<p class="text-justify" style="font-weight: 600"> Welcome to <a href="https://zettaquiz.com/">ZettaQuiz!</a> These Terms and Conditions outline the rules and regulations for the use of our website, https://zettaquiz.com/ (the "Website"). By accessing or using this Website, you accept and agree to comply with these Terms. If you do not agree with any part of these Terms, you should discontinue use of the Website immediately.</p>
+						<p class="text-justify" style="font-weight: 600">Welcome to<a href="https://zettaquiz.com/">ZettaQuiz!</a> By gaining access to or the usage of our net web site ("Site"), services, or packages, you settle to conform with those Terms and Conditions ("Terms"). Please have a look at them carefully.</p>
 					</div>
 					<hr>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">1. Definitions</h2>
+						<h2 class="t-c-head heading_two">1. Acceptance of Terms</h2>
+						<p class="text-justify"> By the usage of ZettaQuiz, you agree to abide via way of those Terms. If you do no longer agree, please do not use our offerings.</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head heading_two">2. Changes to Terms</h2>
+						<p class="text-justify">We reserve the right to replace the ones Terms at any time. Your endured use of the Site after modifications method you are taking shipping of the updated Terms.</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head heading_two">3. User Eligibility</h2>
+						<p class="text-justify">You must be at least thirteen years old to apply for ZettaQuiz. If you're below 18, you want to have parental consent</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head heading_two">4. User Accounts</h2>
 						<div class="mt-5">
 							<div class="t-c-list">
 								<ul class="text-justify">
-									<li>(1) "ZettaQuiz," "we," "our," or "us" refers to the owners and operators of the Website</li>
-									<li>(2) "User," "you," or "your" refers to any individual accessing or using the Website.</li>
+									<li>(1) You are accountable for retaining the safety of your account.</li>
+									<li>(2) Do no longer proportion login credentials.</li>
+									<li>(3) Notify us right now of unauthorized entry to.</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">2. Use of the Website</h2>
+						<h2 class="t-c-head heading_two">5. Use of Services</h2>
+						<p class="text-justify">You conform to:</p>
 						<div class="mt-5">
 							<div class="t-c-list">
 								<ul class="text-justify">
-									<li>(1) You must be at least 13 years old to use this Website. If you are under 18, you must have parental or guardian permission.</li>
-									<li>(2) You agree to use the Website only for lawful purposes and in a way that does not infringe the rights of, restrict, or inhibit anyone else’s use and enjoyment of the Website.</li>
-									<li>(3) You are responsible for ensuring the confidentiality of your account credentials, if applicable.</li>
+									<li>(1) Use ZettaQuiz for lawful purposes</li>
+									<li>(2) Not try and hack, adjust, or disrupt our platform</li>
+									<li>(3) Not have interaction in fraudulent sports</li>
 								</ul>
 							</div>
 						</div>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">3. User Content</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) Any quizzes, comments, or other materials you submit to the Website ("User Content") must not contain offensive, illegal, or infringing content.</li>
-									<li>(2) By submitting User Content, you grant ZettaQuiz a worldwide, non-exclusive, royalty-free license to use, distribute, and display your content on the Website.</li>
-									<li>(3) We reserve the right to remove any content that violates these Terms or is deemed inappropriate at our discretion.</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">6. Intellectual Property</h2>
+						<p class="text-justify">All content material on ZettaQuiz, which consist of trademarks, text, and quizzes, is our intellectual assets. You won't reproduce, distribute, or regulate without permission.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">4. Intellectual Property</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) All content on the Website, including but not limited to text, images, logos, and software, is the property of ZettaQuiz or its licensors and is protected by applicable copyright and trademark laws.</li>
-									<li>(2) You may not copy, distribute, modify, or use any content without our prior written permission.</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">7. Third-Party Links</h2>
+						<p class="text-justify">ZettaQuiz can also encompass hyperlinks to 0.33-party websites. We aren't responsible for their content material material material or guidelines.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">5. Disclaimers & Limitations of Liability</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) The Website is provided "as is" without warranties of any kind, either express or implied.</li>
-									<li>(2) We do not guarantee the accuracy, completeness, or reliability of any content on the Website.</li>
-									<li>(3) ZettaQuiz shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your use of the Website.</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">8. Termination</h2>
+						<p class="text-justify">We may additionally droop or terminate your right of entry to ZettaQuiz in case you violate those Terms.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">6. Third-Party Links</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) The Website may contain links to third-party websites. We are not responsible for the content, privacy policies, or practices of any third-party sites.</li>
-									<li>(2) Your interactions with third-party sites are at your own risk.</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">9. Limitation of Liability</h2>
+						<p class="text-justify">We are not responsible for any damages, losses, or disruptions because of the use of our services.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">7. Termination</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) We reserve the right to suspend or terminate your access to the Website if you violate these Terms.</li>
-									<li>(2) Upon termination, any rights and licenses granted to you will cease immediately.</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">10. Governing Law</h2>
+				      	<p class="text-justify"> These Terms are ruled by the manner of the legal pointers of the USA. Any disputes may be resolved in the best courts of that jurisdiction.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head heading_two">8. Changes to These Terms</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) We may update these Terms at any time without prior notice. The latest version will be posted on this page.</li>
-									<li>(2) Your continued use of the Website after any modifications constitutes acceptance of the updated Terms.</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="mt-5">
-						<h2 class="t-c-head heading_two">9. Governing Law</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1) These Terms shall be governed by and interpreted in accordance with the laws of [Insert Jurisdiction].</li>
-									<li>(2) Any disputes shall be resolved exclusively in the courts of [Insert Jurisdiction].</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="mt-5">
-						<h2 class="t-c-head heading_two">Contact Us</h2>
-						<div class="mt-5">
-							<div class="t-c-list">
-								<ul class="text-justify">
-									<li>(1)  If you have any questions about these Terms, please contact us at:</li>
-									<li>(2)  <b>Website:</b> https://zettaquiz.com/</li>
-								</ul>
-							</div>
-						</div>
+						<h2 class="t-c-head heading_two">11. Contact Information</h2>
+				      	<p class="text-justify"> For questions or issues concerning those Terms, touch us at: info@zettamobi.com By using ZettaQuiz, you have widely recognized which you have taken a look at, understood, and agreed to the ones Terms and Conditions.</p>
 					</div>
 				</div>
 			</div>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Feb 25, 2025 at 03:21 PM
+-- Generation Time: Mar 20, 2025 at 01:04 PM
 -- Server version: 10.6.16-MariaDB
 -- PHP Version: 8.1.27
 
@@ -9082,7 +9082,97 @@ INSERT INTO `game_answers` (`id`, `game_id`, `question_id`, `answer_given`, `cor
 (2594, '1', '55065791843', '2123', '0', '', '', '', ''),
 (2595, '1', '55065791843', '2123', '0', '', '', '', ''),
 (2596, '1', '55065791843', '2126', '0', '', '', '', ''),
-(2597, '1', '55065791843', '2126', '0', '', '', '', '');
+(2597, '1', '55065791843', '2126', '0', '', '', '', ''),
+(2598, '10', '55065791843', '4472', '0', '', '', '', ''),
+(2599, '10', '55065791843', '4472', '0', '', '', '', ''),
+(2600, '10', '55065791843', '4476', '0', '', '', '', ''),
+(2601, '10', '55065791843', '4476', '0', '', '', '', ''),
+(2602, '10', '55065791843', '4478', '0', '', '', '', ''),
+(2603, '10', '55065791843', '4478', '0', '', '', '', ''),
+(2604, '10', '55065791843', '4480', '0', '', '', '', ''),
+(2605, '10', '55065791843', '4480', '0', '', '', '', ''),
+(2606, '10', '55065791843', '4483', '0', '', '', '', ''),
+(2607, '10', '55065791843', '4483', '0', '', '', '', ''),
+(2608, '10', '55065791843', '291', '0', '', '', '', ''),
+(2609, '10', '55065791843', '291', '0', '', '', '', ''),
+(2610, '10', '55065791843', '293', '0', '', '', '', ''),
+(2611, '10', '55065791843', '293', '0', '', '', '', ''),
+(2612, '10', '55065791843', '295', '0', '', '', '', ''),
+(2613, '10', '55065791843', '295', '0', '', '', '', ''),
+(2614, '10', '55065791843', '299', '0', '', '', '', ''),
+(2615, '10', '55065791843', '299', '0', '', '', '', ''),
+(2616, '3', '55065791843', '2162', '0', '', '', '', ''),
+(2617, '3', '55065791843', '2162', '0', '', '', '', ''),
+(2618, '3', '55065791843', '2166', '0', '', '', '', ''),
+(2619, '3', '55065791843', '2166', '0', '', '', '', ''),
+(2620, '3', '55065791843', '2167', '0', '', '', '', ''),
+(2621, '3', '55065791843', '2167', '0', '', '', '', ''),
+(2622, '3', '55065791843', '2170', '0', '', '', '', ''),
+(2623, '3', '55065791843', '2170', '0', '', '', '', ''),
+(2624, '3', '55065791843', '2174', '0', '', '', '', ''),
+(2625, '3', '55065791843', '2174', '0', '', '', '', ''),
+(2626, '3', '55065791843', '2178', '0', '', '', '', ''),
+(2627, '3', '55065791843', '2178', '0', '', '', '', ''),
+(2628, '3', '55065791843', '2179', '0', '', '', '', ''),
+(2629, '3', '55065791843', '2179', '0', '', '', '', ''),
+(2630, '3', '55065791843', '2182', '0', '', '', '', ''),
+(2631, '3', '55065791843', '2182', '0', '', '', '', ''),
+(2632, '3', '55065791843', '4286', '0', '', '', '', ''),
+(2633, '3', '55065791843', '4286', '0', '', '', '', ''),
+(2634, '1', '55065791843', '25', '0', '', '', '', ''),
+(2635, '1', '55065791843', '25', '0', '', '', '', ''),
+(2636, '1', '55065791843', '22', '0', '', '', '', ''),
+(2637, '1', '55065791843', '22', '0', '', '', '', ''),
+(2638, '1', '55065791843', '20', '0', '', '', '', ''),
+(2639, '1', '55065791843', '20', '0', '', '', '', ''),
+(2640, '1', '55065791843', '17', '0', '', '', '', ''),
+(2641, '1', '55065791843', '17', '0', '', '', '', ''),
+(2642, '1', '55065791843', '13', '0', '', '', '', ''),
+(2643, '1', '55065791843', '13', '0', '', '', '', ''),
+(2644, '1', '55065791843', '11', '0', '', '', '', ''),
+(2645, '1', '55065791843', '11', '0', '', '', '', ''),
+(2646, '1', '55065791843', '5', '0', '', '', '', ''),
+(2647, '1', '55065791843', '5', '0', '', '', '', ''),
+(2648, '1', '55065791843', '8', '0', '', '', '', ''),
+(2649, '1', '55065791843', '8', '0', '', '', '', ''),
+(2650, '1', '55065791843', '3', '0', '', '', '', ''),
+(2651, '1', '55065791843', '3', '0', '', '', '', ''),
+(2652, '1', '55065791843', '25', '0', '', '', '', ''),
+(2653, '1', '55065791843', '25', '0', '', '', '', ''),
+(2654, '1', '55065791843', '22', '0', '', '', '', ''),
+(2655, '1', '55065791843', '22', '0', '', '', '', ''),
+(2656, '1', '55065791843', '21', '0', '', '', '', ''),
+(2657, '1', '55065791843', '21', '0', '', '', '', ''),
+(2658, '1', '55065791843', '17', '0', '', '', '', ''),
+(2659, '1', '55065791843', '17', '0', '', '', '', ''),
+(2660, '1', '55065791843', '2114', '0', '', '', '', ''),
+(2661, '1', '55065791843', '2114', '0', '', '', '', ''),
+(2662, '1', '55065791843', '2116', '0', '', '', '', ''),
+(2663, '1', '55065791843', '2116', '0', '', '', '', ''),
+(2664, '1', '55065791843', '2119', '0', '', '', '', ''),
+(2665, '1', '55065791843', '2119', '0', '', '', '', ''),
+(2666, '1', '55065791843', '2122', '0', '', '', '', ''),
+(2667, '1', '55065791843', '2122', '0', '', '', '', ''),
+(2668, '1', '55065791843', '2126', '0', '', '', '', ''),
+(2669, '1', '55065791843', '2126', '0', '', '', '', ''),
+(2670, '1', '55065791843', '2101', '0', '', '', '', ''),
+(2671, '1', '55065791843', '2101', '0', '', '', '', ''),
+(2672, '1', '55065791843', '2104', '0', '', '', '', ''),
+(2673, '1', '55065791843', '2104', '0', '', '', '', ''),
+(2674, '1', '55065791843', '2108', '0', '', '', '', ''),
+(2675, '1', '55065791843', '2108', '0', '', '', '', ''),
+(2676, '1', '55065791843', '2110', '0', '', '', '', ''),
+(2677, '1', '55065791843', '2110', '0', '', '', '', ''),
+(2678, '1', '55065791843', '2115', '0', '', '', '', ''),
+(2679, '1', '55065791843', '2115', '0', '', '', '', ''),
+(2680, '1', '55065791843', '2116', '0', '', '', '', ''),
+(2681, '1', '55065791843', '2116', '0', '', '', '', ''),
+(2682, '1', '55065791843', '2120', '0', '', '', '', ''),
+(2683, '1', '55065791843', '2120', '0', '', '', '', ''),
+(2684, '1', '55065791843', '2122', '0', '', '', '', ''),
+(2685, '1', '55065791843', '2122', '0', '', '', '', ''),
+(2686, '1', '55065791843', '2126', '0', '', '', '', ''),
+(2687, '1', '55065791843', '2126', '0', '', '', '', '');
 
 -- --------------------------------------------------------
 
@@ -9107,7 +9197,7 @@ INSERT INTO `meta_data` (`id`, `page`, `data`) VALUES
 (4, 'about-us', '<meta name=\"keywords\" content=\"About Us\"/>\r\n<meta name=\"description\" content=\"Discover ZettaQuiz\'s mission & vision. Learn how we create engaging quizzes for knowledge & fun. Join us in making learning interactive & entertaining!\" />\r\n<title>About ZettaQuiz - Our Mission, Vision & Quiz Platform</title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n\r\n'),
 (5, 'terms-conditions', '<meta name=\"keywords\" content=\"Terms Conditions\" />\r\n<meta name=\"description\" content=\"Read the Terms & Conditions of ZettaQuiz to understand the rules, policies, and guidelines for using our platform. Stay informed and play responsibly!\" />\r\n<title>ZettaQuiz Terms & Conditions - User Guidelines & Rules </title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n\r\n'),
 (6, 'privacy-policy', '<meta name=\"keywords\" content=\"Privacy Policy\" />\r\n<meta name=\"description\" content=\" Learn how ZettaQuiz collects, stores & protects your personal data. Read our Privacy Policy for details on security, cookies, user rights. Stay safe online!\" />\r\n<title>ZettaQuiz Privacy Policy - How We Protect Your Data</title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n'),
-(7, 'home', '<meta name=\"keywords\" content=\"Quiz Game Lite zettaquiz\" />\r\n<meta name=\"description\" content=\"Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!\"/>\r\n<title>ZettaQuiz - Play, Learn & Master Fun Quizzes Online</title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n'),
+(7, 'home', '<meta name=\"keywords\" content=\"Quiz Game Lite, quiz answer, quiz helper, quizzard game, solve quiz \" />\r\n<meta name=\"description\" content=\"Play interactive quizzes on ZettaQuiz, test your knowledge and challenge friends. Fun, learning and competition - all in one place!\"/>\r\n<title>Zetta Quiz: Play interactive quiz and challenge your mind</title>\r\n\r\n<meta property=\"og:title\" content=\"Zetta Quiz: Play interactive quiz and challenge your mind\">\r\n<meta property=\"og:site_name\" content=zettaquiz>\r\n<meta property=\"og:url\" content=https://zettaquiz.com/>\r\n<meta property=\"og:description\" content=\"Play interactive quizzes on ZettaQuiz, test your knowledge and challenge friends. Fun, learning and competition - all in one place!\" >\r\n<meta property=\"og:type\" content=website>\r\n<meta property=\"og:image\" content=https://zettaquiz.com/assets/images/logo.png>\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Zetta Quiz: Play interactive quiz and challenge your mind\">\r\n<meta name=\"twitter:description\" content=\"Play interactive quizzes on ZettaQuiz, test your knowledge and challenge friends. Fun, learning and competition - all in one place!\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n'),
 (8, 'faqs', '<meta name=\"keywords\" content=\"Faq\"/>\r\n<meta name=\"description\" content=\"Have questions about ZettaQuiz? Check our FAQs for answers on quiz rules, account issues, scoring system & more. Get quick help & start playing today!\" />\r\n<title>ZettaQuiz FAQs - Get Answers to Common Quiz Queries</title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n\r\n'),
 (9, 'leaderboard', '<meta name=\"keywords\" content=\"Leader Board\"/>\r\n<meta name=\"description\" content=\"Check out the Zetta Quiz leaderboard! See top trivia players, track your ranking, and compete for the #1 spot. Play now and climb the ranks!\" />\r\n<title>Zetta Quiz Leaderboard – Top Trivia Players Ranked</title>\r\n<meta property=\"og:title\" content=\"play and learn with zettaquiz – top trivia and brain games\" />\r\n<meta property=\"og:type\" content=\"game\" />\r\n<meta property=\"og:image\" content=\"https://zettaquiz.com/assets/images/logo.png\" />\r\n\r\n<meta name=\"twitter:card\" content=\"summary\">\r\n<meta name=\"twitter:site\" content=\"@zettaquiz\">\r\n<meta name=\"twitter:title\" content=\"Play and Learn with ZettaQuiz – Top Trivia and Brain Games\">\r\n<meta name=\"twitter:description\" content=\"ZettaQuiz brings you fun, interactive quizzes on topics you love. Test your skills, boost your knowledge, and enjoy endless trivia fun today.\">\r\n<meta name=\"twitter:image\" content=\"https://zettaquiz.com/assets/images/logo.png\">\r\n\r\n\r\n');
 
@@ -9136,7 +9226,8 @@ INSERT INTO `notifications` (`id`, `title`, `description`, `icon_url`, `action_u
 (2, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-02-17 13:13:18'),
 (3, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-02-17 16:10:04'),
 (4, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-02-25 15:10:17'),
-(5, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-02-25 15:14:00');
+(5, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-02-25 15:14:00'),
+(6, 'ZettaQuiz - Play, Learn & Master Fun Quizzes Onlin', 'Explore ZettaQuiz for exciting quizzes on various topics! Test your knowledge, challenge friends & learn with fun. Play now & become a quiz master!', NULL, 'https://zettaquiz.com/', NULL, '2025-03-10 11:21:09');
 
 -- --------------------------------------------------------
 
@@ -11993,13 +12084,13 @@ ALTER TABLE `answers`
 -- AUTO_INCREMENT for table `games`
 --
 ALTER TABLE `games`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=71;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=72;
 
 --
 -- AUTO_INCREMENT for table `game_answers`
 --
 ALTER TABLE `game_answers`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2598;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2688;
 
 --
 -- AUTO_INCREMENT for table `meta_data`
@@ -12011,7 +12102,7 @@ ALTER TABLE `meta_data`
 -- AUTO_INCREMENT for table `notifications`
 --
 ALTER TABLE `notifications`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT for table `questions`

@@ -6,9 +6,24 @@ if(isset($_GET['type']) && $_GET['type']!=''){
 	$type=get_safe_value($con,$_GET['type']);
 	
 	if($type=='delete'){
-		$id=get_safe_value($con,$_GET['id']);
-		$delete_sql="delete from games where id='$id'";
-		mysqli_query($con,$delete_sql);
+		$id = get_safe_value($con, $_GET['id']);
+            // Fetch the image filename before deleting the record
+            $fetch_sql = "SELECT image FROM games WHERE id='$id'";
+            $fetch_result = mysqli_query($con, $fetch_sql);
+            $row = mysqli_fetch_assoc($fetch_result);
+            
+            if ($row) {
+                $image_path = '../images/games/' . $row['image']; // Ensure correct path
+            
+                // Check if the file exists before deleting
+                if (file_exists($image_path)) {
+                    unlink($image_path);
+                }
+            
+                // Now delete the record from the database
+                $delete_sql = "DELETE FROM games WHERE id='$id'";
+                mysqli_query($con, $delete_sql);
+            }
 	}
 	if($type=='status'){
 	    $id=get_safe_value($con,$_GET['id']);

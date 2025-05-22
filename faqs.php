@@ -20,48 +20,59 @@
 			<div class="top_slide_predict">
 				<div>
 					<div class="">
-							<h1 class="text-justify heading_one" style="font-weight: 600">Frequently Asked Questions (FAQ)</h1>
+							<h1 class="text-justify heading_one" style="font-weight: 600">Frequently Asked Questions (FAQs) | ZettaQuiz</h1>
 					</div>
 					<div class="mt-5">
 						<h2 class="t-c-head">1. What is ZettaQuiz?</h2>
-						<p>ZettaQuiz is an interactive platform offering a wide range of <a href="https://zettaquiz.com/disclaimer">gaming-related quizzes!</a> and trivia. Users can test their knowledge across various gaming genres, stay updated with the latest gaming trends, and challenge friends to beat their scores.</p>
+						<p>ZettaQuiz is an interactive <a href="https://zettaquiz.com/disclaimer">platform that offers pretty</a> some quizzes in the course of first rate training, which includes brand new information, amusement, technology, information, and greater.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">2. How do I create an account?</h2>
-						<p>To create an account, click on the "Sign Up" button located at the top-right corner of the homepage. You can register using your email address or through social media accounts like Facebook or Google.</p>
+						<h2 class="t-c-head">2. Is ZettaQuiz loose to apply?</h2>
+						<p>Yes, ZettaQuiz gives loose quizzes for clients. However, we may additionally additionally have pinnacle charge content cloth or capabilities available for a better revel in.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">3. Is ZettaQuiz free to use?</h2>
-						<p>Yes, ZettaQuiz offers free access to a vast collection of quizzes. However, we also provide premium features and exclusive content available through a subscription plan.</p>
+						<h2 class="t-c-head">3. Do I want to create an account to play?</h2>
+						<p>No, you could play quizzes without an account. However, growing an account lets in you to track your development, hold ratings, and participate in leaderboards.Quiz & Gameplay </p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">4. How can I participate in quizzes?</h2>
-						<p>Once logged in, navigate to the "Quizzes" section. Browse through the available quizzes, select the one you're interested in, and click "Start Quiz" to begin.</p>
+						<h2 class="t-c-head">4. How do I start a quiz?</h2>
+						<p>Simply visit our homepage, pick a class, and click on a quiz to start.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">5. Can I create my own quizzes?</h2>
-						<p>Yes, registered users can create and share their own quizzes. Go to the "Create Quiz" section, follow the prompts to design your quiz, and publish it for others to enjoy.</p>
+						<h2 class="t-c-head">5. Can I play quizzes with pals?</h2>
+						<p>Yes! ZettaQuiz gives multiplayer and challenge modes in which you may compete with pals in actual time.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">6. How is my performance tracked?</h2>
-						<p>After completing a quiz, your score and performance statistics will be displayed. You can view your quiz history and track your progress in the "Profile" section</p>
+						<h2 class="t-c-head">6. Are there any timed quizzes?</h2>
+						<p>Yes, some quizzes have a time restrict to make the sport extra exciting. Others will let you play at your very personal tempo. Scoring & Rewards</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">7. Are there any rewards for high scores?</h2>
-						<p>Top performers may earn badges, certificates, or other rewards. Details about the rewards system can be found in the "Rewards" section of the website.</p>
+						<h2 class="t-c-head">7. How does the scoring machine art work?</h2>
+						<p>Each quiz has a totally particular scoring device based on correct solutions and time taken. Faster and additional accurate responses earn higher elements.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">8. How do I report an issue or provide feedback?</h2>
-						<p>If you encounter any problems or have suggestions, please visit the "Contact Us" page and fill out the feedback form. Our support team will address your concerns promptly.</p>
+						<h2 class="t-c-head">8. Are there prizes for pinnacle gamers?</h2>
+						<p>ZettaQuiz also can run unique contests with prizes. Keep an eye fixed on our announcements for records. xTechnical & Account Issues</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">9. Is my personal information secure?</h2>
-						<p>We prioritize user privacy and employ robust security measures to protect your data. For more information, please review our Privacy Policy.</p>
+						<h2 class="t-c-head">9. I forgot my password. How can I reset it?</h2>
+						<p>Click on the "Forgot Password" hyperlink at the login internet page and follow the instructions to reset your password.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">10. How can I delete my account?</h2>
-						<p>If you wish to delete your account, go to the "Account Settings" in your profile and select the "Delete Account" option. Please note that this action is irreversible.</p>
-					    <p>Feel free to modify these questions and answers to align with the specific functionalities and policies of ZettaQuiz.com.</p>
+						<h2 class="t-c-head">10. Can I document incorrect quiz answers?</h2>
+						<p>Yes! If you find out any incorrect answers, please use the "Report" button or touch our assist group.</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head">11. Does ZettaQuiz paintings on cellular devices?</h2>
+						<p>Absolutely! ZettaQuiz is mobile-great and may be accessed through any mobile telephone or pill. Contact & Support.</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head">12. How can I touch ZettaQuiz assist?</h2>
+						<p>You can achieve us through our [Contact Page] or email us at guide@zettaquiz.Com.</p>
+					</div>
+					<div class="mt-5">
+						<h2 class="t-c-head">13. Can I propose a today's quiz problem bear in mind?</h2>
+						<p>Yes! We love individual recommendations. Send your quiz thoughts through our "Suggest a Quiz" shape.</p>
 					</div>
 					
 				</div>

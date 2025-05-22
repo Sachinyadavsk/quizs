@@ -21,86 +21,63 @@
 				<div>
 					<div class="">
 							<h1 class="text-justify heading_one" style="font-weight: 600">Privacy Policy</h1>
-						<p>Welcome to ZettaQuiz ("we," "our," or "us"). Your <a href="https://zettaquiz.com/terms-and-conditions">privacy!</a>  is important to us, and this Privacy Policy explains how we collect, use, disclose, and protect your information when you visit our website https://zettaquiz.com/ (the "Site"). By using the Site, you agree to the practices described in this Privacy Policy.</p>
+						<p>Welcome to <a href="https://zettaquiz.com/terms-and-conditions">ZettaQuiz!</a>Your privateness is critical to us. This Privacy Policy outlines how we accumulate, use, and protect your information at the same time as you use our internet website online ("ZettaQuiz," "we," "our," or "us").</p>
 					</div>
 					<div class="mt-5">
 						<h2 class="t-c-head">1. Information We Collect</h2>
-						<p>We may collect the following types of information when you use our Site:</p>
-						<h5 class="t-c-head">a. Personal Information</h5>
-						<p>When you voluntarily provide it, we may collect personal information such as:</p>
+						<p>We collect the following sorts of data:</p>
 						<ul>
-						    <li>(1)&nbsp;Name</li>
-						    <li>(2)&nbsp;Email address</li>
-						    <li>(3)&nbsp;Contact details</li>
-						    <li>(4)&nbsp;Any other information you submit through forms or account registration</li>
-						</ul>
-					</div>
-					<div class="mt-5">
-						<h2 class="t-c-head">b. Non-Personal Information</h2>
-						<p>We may collect non-personal information automatically, such as:</p>
-						<ul>
-						    <li>(1)&nbsp;IP address</li>
-						    <li>(2)&nbsp;Browser type and version</li>
-						    <li>(3)&nbsp;Device information</li>
-						    <li>(4)&nbsp;Pages visited and time spent on the Site</li>
-						    <li>(5)&nbsp;Referring website URLs</li>
-						    <li>(6)&nbsp;Cookies and similar tracking technologies</li>
+						    <li>(1)&nbsp;Personal Information: Name, e-mail address, and unique information you offer whilst signing up or contacting us.</li>
+						    <li>(2)&nbsp;Usage Data: Information approximately how you operate our net internet site, which includes IP deal with, browser kind, and pages visited.</li>
+						    <li>(3)&nbsp;Cookies and Tracking Technologies: To enhance your revel in and beautify our services.</li>
 						</ul>
 					</div>
 					<div class="mt-5">
 						<h2 class="t-c-head">2. How We Use Your Information</h2>
-						<p>We use the collected information for the following purposes:</p>
+						<p>We use the gathered data for:</p>
 						<ul>
-						    <li>(1)&nbsp;To provide and improve our services</li>
-						    <li>(2)&nbsp;To communicate with you regarding updates, promotions, and customer support</li>
-						    <li>(3)&nbsp;To personalize user experience</li>
-						    <li>(4)&nbsp;To analyze website traffic and trends</li>
-						    <li>(5)&nbsp;To detect and prevent fraud or security threats</li>
-						    <li>(6)&nbsp;To comply with legal requirements</li>
+						    <li>(1)&nbsp;Providing, retaining, and enhancing our offerings.</li>
+						    <li>(2)&nbsp;Personalizing man or woman revels in.</li>
+						    <li>(3)&nbsp;Communicating with you about updates, promotions, or customer service.</li>
+						    <li>(4)&nbsp;Ensuring protection and stopping fraudulent sports.</li>
 						</ul>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">3. Cookies and Tracking Technologies</h2>
-						<p>Our Site uses cookies and similar technologies to enhance user experience. Cookies help us analyze site traffic, remember user preferences, and improve our services. You can manage your cookie preferences through your browser settings.</p>
+						<h2 class="t-c-head">3. How We Share Your Information</h2>
+						<p>We do not promote, alternate, or rent your non-public data. However, we may additionally additionally proportion it with:</p>
+						<ul>
+						    <li>(1)&nbsp;Service Providers: Third occasions that assist us carry out our net internet site online.</li>
+						    <li>(2)&nbsp;Legal Authorities: If required by way of the usage of way of law to conform with crook responsibilities or guard our rights.</li>
+						</ul>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">4. How We Share Your Information</h2>
-						<p>We do not sell or rent your personal information. However, we may share information with:</p>
-						<ul>
-						    <li>(1)&nbsp;<b>Service Providers:</b> Third-party vendors assisting with website operations, analytics, and marketing.</li>
-						    <li>(2)&nbsp;<b>Legal Compliance:</b> When required by law, regulation, or legal process.</li>
-						    <li>(3)&nbsp;<b>Business Transfers:</b> In the case of a merger, acquisition, or sale of assets.</li>
-						</ul>
+						<h2 class="t-c-head">4. Cookies & Tracking Technologies</h2>
+						<p>We use cookies to decorate your surfing. You can modify your browser settings to refuse cookies, but some functions might not work properly.</p>
 					</div>
 					<div class="mt-5">
 						<h2 class="t-c-head">5. Data Security</h2>
-						<p>We implement industry-standard security measures to protect your personal information. However, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security.</p>
+						<p>We implement security capabilities to guard your records. However, no approach of transmission over the internet is 100% robust.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">6. Third-Party Links</h2>
-						<p>Our Site may contain links to third-party websites. We are not responsible for their privacy practices, and we encourage you to review their privacy policies.</p>
-					</div>
-					<div class="mt-5">
-						<h2 class="t-c-head">7. Your Rights and Choices</h2>
-						<p>Depending on your location, you may have the following rights:</p>
+						<h2 class="t-c-head">6. Your Rights</h2>
+						<p>You have the right to:</p>
 						<ul>
-						    <li>(1)&nbsp;Access, update, or delete your personal information</li>
-						    <li>(2)&nbsp;Opt-out of marketing communications</li>
-						    <li>(3)&nbsp;Restrict or object to data processing</li>
-						    <li>(3)&nbsp;Withdraw consent for data collection</li>
+						    <li>(1)&nbsp;Access, update, or delete your private information.</li>
+						    <li>(2)&nbsp;Opt-out of marketing emails.</li>
+						    <li>(3)&nbsp;Request a replica of the information we keep approximately you.</li>
 						</ul>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">8. Children’s Privacy</h2>
-						<p>Our Site is not intended for children under the age of 13. We do not knowingly collect personal information from children.</p>
+						<h2 class="t-c-head">7. Third-Party Links</h2>
+						<p>Our internet website online can also furthermore encompass hyperlinks to third-birthday party websites. We are not responsible for their private practices.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">9. Changes to This Privacy Policy</h2>
-						<p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
+						<h2 class="t-c-head">8. Changes to This Privacy Policy</h2>
+						<p>We can also replace this coverage once in a while. The current model will always be available on our net web site.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">10. Contact Us</h2>
-						<p>Thank you for using ZettaQuiz!.</p>
+						<h2 class="t-c-head">9. Contact Us</h2>
+						<p>If you have got any questions about this Privacy Policy, contact us at: info@zettamobi.com By using ZettaQuiz, you compromise the terms of this Privacy Policy.</p>
 					</div>
 					
 				</div>

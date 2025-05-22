@@ -48,6 +48,8 @@ $res=mysqli_query($con,$sql);
 
 								echo "<span class='badge badge-delete'><a href='meta_data.php?type=delete&id=".$row['id']."'>Delete</a></span>";
 
+							        }else{
+							            echo "<span class='badge badge-edit'><a href='manage_meta_data.php?id=".$row['id']."'>Edit</a></span>&nbsp;"; 
 							        }
 								?>
 							   </td>

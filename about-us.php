@@ -23,29 +23,25 @@
 							<h1 class="text-justify heading_one" style="font-weight: 600">About Us</h1>
 					</div>
 					<div class="mt-5">
-						<p>Welcome to ZettaQuiz, your ultimate destination for engaging and challenging <a href="https://zettaquiz.com/faqs">gaming quizzes!</a>. Our platform is designed to test your knowledge across a wide array of gaming genres, from classic arcade titles to the latest releases.</p>
+						<p>Welcome to ZettaQuiz, your last tour spot for amusing, understanding, and <a href="https://zettaquiz.com/faqs"> difficult quizzes! At ZettaQuiz</a>, we take shipping of as real with that studying have to be appealing and beautiful. Whether you're a minutiae lover, a quiz fanatic, or a person who enjoys testing their know-how, we've got got some issue for you. Our platform gives a massive form of quizzes spanning severa topics—from full-size information and records to pop culture, technology, and past.</p>
 					</div>
 					<div class="mt-5">
 						<h2 class="t-c-head">Our Mission</h2>
-						<p>At ZettaQuiz, we aim to create an interactive and educational environment where gamers can assess and expand their knowledge. We believe that learning about games should be as enjoyable as playing them.</p>
+						<p>Our motive is easy: to make reading interesting and interactive. We cause to create a space wherein clients can assignment themselves, compete with buddies, and enlarge their information in an amusing way.</p>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">3. Is ZettaQuiz free to use?</h2>
-						<p>Yes, ZettaQuiz offers free access to a vast collection of quizzes. However, we also provide premium features and exclusive content available through a subscription plan.</p>
-					</div>
-					<div class="mt-5">
-						<h2 class="t-c-head">What We Offer</h2>
+						<h2 class="t-c-head">Why Choose ZettaQuiz?</h2>
 						<ul>
-						    <li><b>Diverse Quiz Categories:</b> Explore quizzes covering various gaming platforms and genres, ensuring there's something for every gaming enthusiast.</li>
-                            <li><b>Regular Updates:</b> Our team consistently adds new quizzes to keep the content fresh and aligned with the latest gaming trends.</li>
-                            <li><b>Community Engagement:</b> Join a community of like-minded gamers, share your scores, and challenge friends to beat your high scores.</li>
+						    <li>Diverse Topics – Quizzes on a wide type of topics</li>
+                            <li>Interactive & Fun – Engaging codecs to keep you entertained</li>
+                            <li>Challenge Friends – Compete, proportion, and enhance collectively</li>
+                            <li> Learn & Grow – Enhance your statistics at the same time as having amusing</li>
 
 						</ul>
 					</div>
 					<div class="mt-5">
-						<h2 class="t-c-head">Join Us</h2>
-						<p>Whether you're a casual gamer or a hardcore enthusiast, ZettaQuiz offers a fun and informative way to test your gaming knowledge. Dive into our quizzes and see how you stack up against other gamers worldwide.</p>
-						<p>Thank you for choosing ZettaQuiz as your go-to platform for gaming quizzes. We look forward to challenging and entertaining you!</p>
+						<h2 class="t-c-head">Join the ZettaQuiz Community!</h2>
+						<p>Start exploring in recent times and located your facts to the test. Whether you are right here to undertaking yourself or just have a laugh, ZettaQuiz is the right location to enjoy the amusing of quizzes.Let the quiz adventure start! 🚀🎉</p>
 					</div>
 				</div>
 			</div>
